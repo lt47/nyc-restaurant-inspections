@@ -1,3 +1,3 @@
 # nyc-restaurant-inspections
 
-[!(https://raw.githubusercontent.com/lt47/nyc-restaurant-inspections/master/nyc-rest.PNG)]()
+[![INSERT YOUR GRAPHIC HERE](https://raw.githubusercontent.com/lt47/nyc-restaurant-inspections/master/nyc-rest.PNG)]()
