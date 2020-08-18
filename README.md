@@ -1,4 +1,4 @@
-# NYC Restaurant Inspections | Mapbox + PLotly 
+# NYC Restaurant Inspections | Mapbox + Plotly 
 
 > Source:
 - NYC Open Data (https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j)
